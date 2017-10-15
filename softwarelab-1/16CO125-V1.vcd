@@ -1,0 +1,119 @@
+$date
+	Thu Sep 21 06:53:19 2017
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module inp $end
+$var wire 1 ! w $end
+$var wire 1 " x $end
+$var wire 1 # y $end
+$var wire 1 $ z $end
+$var reg 1 % a $end
+$var reg 1 & b $end
+$var reg 1 ' c $end
+$var reg 1 ( d $end
+$scope module out $end
+$var wire 1 ) a $end
+$var wire 1 * b $end
+$var wire 1 + c $end
+$var wire 1 , d $end
+$var wire 1 ! w $end
+$var wire 1 - w1 $end
+$var wire 1 . w2 $end
+$var wire 1 / w3 $end
+$var wire 1 0 w4 $end
+$var wire 1 " x $end
+$var wire 1 # y $end
+$var wire 1 $ z $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+10
+1/
+1.
+1-
+0,
+0+
+0*
+0)
+0(
+0'
+0&
+0%
+1$
+0#
+0"
+1!
+$end
+#10000
+0$
+1(
+1,
+#20000
+0!
+1$
+00
+1"
+0(
+0,
+1'
+1#
+1+
+#30000
+0$
+1(
+1,
+#40000
+0/
+1$
+10
+0.
+0(
+0,
+0'
+0#
+0+
+1&
+1*
+#50000
+0$
+1(
+1,
+#60000
+1$
+00
+0"
+0(
+0,
+1'
+1#
+1+
+#70000
+0$
+1(
+1,
+#80000
+1$
+10
+1.
+0-
+0(
+0,
+0'
+0#
+0+
+0&
+0*
+1%
+1)
+#90000
+0$
+1(
+1,
+#300000
