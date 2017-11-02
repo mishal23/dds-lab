@@ -1,0 +1,104 @@
+$date
+	Sat Oct 28 11:03:28 2017
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module testbench $end
+$scope module in $end
+$var wire 1 ! Clock $end
+$var wire 1 " Cn $end
+$var wire 1 # Cnn $end
+$var wire 1 $ D $end
+$var wire 1 % Qn $end
+$var wire 1 & Q $end
+$var wire 1 ' DQn $end
+$var wire 1 ( DQ $end
+$scope module dl $end
+$var wire 1 $ D $end
+$var wire 1 ) D1 $end
+$var wire 1 * Dn $end
+$var wire 1 + Dn1 $end
+$var wire 1 " G $end
+$var wire 1 ( Q $end
+$var wire 1 ' Qn $end
+$upscope $end
+$scope module sr $end
+$var wire 1 # G $end
+$var wire 1 & Q $end
+$var wire 1 % Qn $end
+$var wire 1 ' R $end
+$var wire 1 , R1 $end
+$var wire 1 ( S $end
+$var wire 1 - S1 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0-
+0,
+1+
+1*
+0)
+0(
+1'
+x&
+x%
+0$
+0#
+1"
+0!
+$end
+#100000
+1%
+0&
+1,
+1#
+0+
+0*
+0"
+1$
+1!
+#200000
+1(
+0,
+0'
+0#
+1)
+1"
+0!
+#300000
+1&
+0%
+1-
+1#
+1*
+0)
+0"
+0$
+1!
+#400000
+0-
+0#
+0*
+1)
+1"
+1$
+0!
+#500000
+1-
+1#
+0)
+0"
+1!
+#600000
+0-
+0#
+1)
+1"
+0!
