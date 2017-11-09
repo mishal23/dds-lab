@@ -1,2 +1,2 @@
-# Question
-9’s complement of BCD 4 digit
+### Question
+4 bit Comparator
